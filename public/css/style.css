@@ -1,0 +1,17 @@
+body {
+	overflow-x: hidden;
+}
+.heading-signup {
+	text-shadow: -3px 2px 5px rgba(206,206,206,0.86);
+}
+.form-signup {
+	margin-top: 125px;
+}
+.all-footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+}
